@@ -13,10 +13,6 @@ console.info({ answer });
 
 
 
-
-
-
-
 function Game() {
   const [guesses, setGuesses] = React.useState([]);
 
